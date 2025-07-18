@@ -1,6 +1,7 @@
 """
 Loads the articles, brand rules, links & media.
 """
+
 import sqlite3
 from typing import List, Dict, Any
 

@@ -16,14 +16,14 @@ formations.
    even at 420 ppm concentrations.
 
 Advances in membrane materials and low‑temperature sorbents have cut capture energy penalties by
-15 % over the past five years, according to research in *Energy & Environmental Science*.
+15 % over the past five years, according to research in *Energy & Environmental Science*. carbon capture technology
 
 ## Moving the molecule
 
 Once captured, CO₂ is compressed into a super‑critical fluid and sent via pipeline or ship. The
 United States alone operates more than 8,000 km of dedicated CO₂ pipelines, primarily serving the
 enhanced oil‑recovery sector, but new lines designed exclusively for permanent storage are under
-permitting review on five continents.
+permitting review on five continents. CCS projects
 
 ## Storage options and risks
 
@@ -32,7 +32,7 @@ permitting review on five continents.
 * **Basalt formations** – React with CO₂ to form stable carbonate minerals in less than two years.
 
 Leakage remains the chief public concern; however, monitoring technologies such as satellite
-interferometry and fibre‑optic sensing can detect pressure changes as small as 0.01 bar.
+interferometry and fibre‑optic sensing can detect pressure changes as small as 0.01 bar. carbon storage methods
 
 ## Economics and policy
 
