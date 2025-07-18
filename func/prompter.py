@@ -13,8 +13,8 @@ def build_prompt(
     prompt = f"""
 You are an expert content editor. Your task is to enrich the following article with media and hyperlinks, following these rules:
 - Select ONE hero image (from media list) for the top of the article.
-- Select ONE in-context image or video (from media list) and specify where to insert it (quote a sentence or paragraph from the article).
-- Select TWO links (from links list), and for each, generate anchor text (using the provided keywords) and specify where to insert it (quote a sentence or paragraph from the article).
+- Select ONE in-context image or video (from media list) and specify where to insert it (quote a sentence or paragraph from the article in markdown).
+- Select TWO links (from links list), and for each, generate anchor text (using the provided keywords) and specify where to insert it (quote a sentence or paragraph from the article in markdown).
 - Follow these brand guidelines: {brand_rules}
 - Output your plan as valid JSON in this format:
 {{
